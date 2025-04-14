@@ -1,4 +1,5 @@
 theme = "nostyleplease"
+baseURL = "https://nkln-org.vercel.app/"
 
 [module]
   [module.hugoVersion]
